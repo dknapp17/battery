@@ -2,12 +2,8 @@
 from pathlib import Path
 
 import kagglehub
-from kagglehub import KaggleDatasetAdapter
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from itertools import combinations
+from kagglehub import KaggleDatasetAdapter
 
 
 def main():
